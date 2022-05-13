@@ -66,9 +66,9 @@ func main() {
 `n, err := fmt.Scanf("%d\n", &guess)`会返回两个值n是scanf接收数值的数量，err为是否发生错误。且若不加\n ,输入时会把回车一并读入，导致接收两个数据（应该是吧，小白不是很懂）。
 
 # 在线词典
-将cURL命令转换为Go语言代码的网站[Convert curl commands to code](https://curlconverter.com/")
+将cURL命令转换为Go语言代码的网站[Convert curl commands to code](https://curlconverter.com/)
 
-请求结果在Go中创建相应的结构体的工具[在线工具 - OKTools](https://oktools.net/json2go/")
+请求结果在Go中创建相应的结构体的工具[在线工具 - OKTools](https://oktools.net/json2go/)
 
 按老师步骤操作即可。
 
