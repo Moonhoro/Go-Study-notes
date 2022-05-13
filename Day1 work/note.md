@@ -7,9 +7,9 @@
 
 [PPT中课程代码](https://github.com/wangkechun/go-by-example)
 ### 学习 Go 语言基础语法
-[Go语言圣经](https://link.juejin.cn/?target=https%3A%2F%2Fbooks.studygolang.com%2Fgopl-zh%2F)
+[Go语言圣经](https://books.studygolang.com/gopl-zh/)
 
-[Go by Example 中文版](https://link.juejin.cn/?target=https%3A%2F%2Fgobyexample-cn.github.io%2F "https://gobyexample-cn.github.io/")
+[Go by Example 中文版](https://gobyexample-cn.github.io/)
 # GO环境配置
 Go的环境配置网上有大量教程，照做即可，不甚了解原理，不加赘述，仅说一下遇到的问题。
 
@@ -66,9 +66,9 @@ func main() {
 `n, err := fmt.Scanf("%d\n", &guess)`会返回两个值n是scanf接收数值的数量，err为是否发生错误。且若不加\n ,输入时会把回车一并读入，导致接收两个数据（应该是吧，小白不是很懂）。
 
 # 在线词典
-将cURL命令转换为Go语言代码的网站[Convert curl commands to code](https://link.juejin.cn/?target=https%3A%2F%2Fcurlconverter.com%2F "https://curlconverter.com/")
+将cURL命令转换为Go语言代码的网站[Convert curl commands to code](https://curlconverter.com/")
 
-请求结果在Go中创建相应的结构体的工具[在线工具 - OKTools](https://link.juejin.cn/?target=https%3A%2F%2Foktools.net%2F "https://oktools.net/")
+请求结果在Go中创建相应的结构体的工具[在线工具 - OKTools](https://oktools.net/json2go/")
 
 按老师步骤操作即可。
 
